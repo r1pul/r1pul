@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r1pul&show_icons=true&locale=en" alt="r1pul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r1pul&" alt="r1pul" /></p>
-![](https://leetcard.jacoblin.cool/ripulgautam612?cache=0)
+<img src="https://leetcard.jacoblin.cool/ripulgautam612" alt="LeetCode Stats" />
